@@ -23,7 +23,7 @@ Studant in Multimedia, Web Development and Digital Media at IUT du Limousin, Lim
 ![Krita](https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B)
 
 ## LEARN MORE:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=%23FF7139)](https://akok0.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=%23FF7139)](https://maloetchegoyen.github.io/Portfolio/)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Akok0&icon=6&color=yellow)](https://visitcount.itsvg.in)
