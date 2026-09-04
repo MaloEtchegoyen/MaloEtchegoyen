@@ -1,5 +1,5 @@
 # ABOUT ME:
-Studant in Multimedia, Web Development and Digital Media at IUT du Limousin, Limoges (France).
+Student in Multimedia, Web Development and Digital Media at IUT du Limousin, Limoges (France).
 
 
 ## SOCIALS:
